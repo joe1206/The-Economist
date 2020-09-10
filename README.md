@@ -13,7 +13,7 @@
 # 喜欢的小伙伴欢迎赞助买个皮肤，哈哈哈
 
 
- ## <font color=#0099ff size=40 face="黑体">百度云群组</font>
+ ## <font color=#00ffff size=40 face="黑体">百度云群组</font>
  
  <img src="http://m.qpic.cn/psc?/V14dbodi031bED/VvKoQz*3MdOV*27lszynSdaLJ461ABMpIPeaWB1lflW*OWIjEpc6cWgi2yZVXvNIUkVYgjdrOBmRwzRdphLP7qceU5.fVyfKu5cUXUHIcYA!/b&bo=rwWAArAI0gMRF2E!&rf=viewer_4&t=5,size_16,color_FFFFFF,t_70" width="360" border="1px"/>
 
