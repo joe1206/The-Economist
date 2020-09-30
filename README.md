@@ -1,12 +1,13 @@
 # The_Economist
 **经济学人**
-##   本项目免费更新经济学人期刊，一般会按时更新，更新格式为pdf和word也是方便大家观看，其他格式暂时不提供。其中，杂志相配套的音频也随即上传，是练习听力，提高口语的好帮手。如果大家觉得有帮助，欢迎赞助本频道。
 
 [![Stars](https://img.shields.io/github/stars/joe1206/The-Economist.svg)](https://github.com/joe1206/The-Economist/stargazers)
 [![Forks](https://img.shields.io/github/forks/joe1206/The-Economist.svg)](https://github.com/joe1206/The-Economist/network/members)
 ![GitHub repo size](https://img.shields.io/github/repo-size/joe1206/The-Economist.svg)
 [![Issues](https://img.shields.io/github/issues/joe1206/The-Economist.svg)]()
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/joe1206/The-Economist.svg)
+
+##   本项目免费更新经济学人期刊，一般会按时更新，更新格式为pdf和word也是方便大家观看，其他格式暂时不提供。其中，杂志相配套的音频也随即上传，是练习听力，提高口语的好帮手。如果大家觉得有帮助，欢迎赞助本频道。
 
 ## 小伙伴们可以先关注公众号“可爱的小新新”，及时获取最新资料更新动态
 
