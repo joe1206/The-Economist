@@ -11,7 +11,7 @@
 
 ## 小伙伴们可以先关注公众号“可爱的小新新”，及时获取最新资料更新动态
 ## 喜欢的小伙伴欢迎打赏支持
-
+## 此项目为2020年经济学人分享，2021年分享已重新创建了新的项目，移步新项目，二群的链接不变
  ## 百度云群组
  
 <img src="http://r.photo.store.qq.com/psc?/V14dbodi031bED/45NBuzDIW489QBoVep5mcdmMU5cgc2H*rPYa5UHwQGSYaswZlz7n6*qKQEWQMipMq3BWiThfrbpSznUy0zIXqYo1B1H3AVFvFPBNcNZJbGM!/r,size_16,color_FFFFFF,t_70" width="360" border="1px"/>
